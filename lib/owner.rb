@@ -13,10 +13,10 @@ class Owner
   end
 
   def say_species
-    "I am a #{species}"
+    "I am a #{species}."
   end
 
-  def reset_all
-    
+  def self.reset_all
+
   end
 end
